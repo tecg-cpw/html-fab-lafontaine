@@ -35,7 +35,7 @@ Le plan de votre page doit correspondre au résultat suivant :
 
 ![Capture du plan du document selon l'algorithme HTML4 pour la page 1](cigale2_headings.png "capture des Headings fournis par headingsMap pour la page cigale2.html")
 
-![Capture du plan du document selon l'algorithme HTML4 pour la page 1](cigale2_html5Outlie.png "capture du HTML5 Outline fourni par headingsMap pour la page cigale2.html")
+![Capture du plan du document selon l'algorithme HTML4 pour la page 1](cigale2_html5Outline.png "capture du HTML5 Outline fourni par headingsMap pour la page cigale2.html")
 
 Les pages doivent bien entendu être valides.
 
