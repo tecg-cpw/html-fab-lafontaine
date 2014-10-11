@@ -29,13 +29,13 @@ Consulter le livre de référence pour toutes informations utiles
 
 Voici la capture d’écran d’un exemple de réalisation :
 
-![Capture d'un exemple de résultat attendu pour la page 1](cigale_rendu.png "capture d'un exemple de solution : cigale2.html")
+![Capture d'un exemple de résultat attendu pour la page 1](cigale_rendu.png "capture d'un exemple de solution : cigale.html")
 
 Le plan de votre page doit correspondre au résultat suivant :
 
-![Capture du plan du document selon l'algorithme HTML4 pour la page 1](cigale_headings.png "capture des Headings fournis par headingsMap pour la page cigale2.html")
+![Capture du plan du document selon l'algorithme HTML4 pour la page 1](cigale_headings.png "capture des Headings fournis par headingsMap pour la page cigale.html")
 
-![Capture du plan du document selon l'algorithme HTML4 pour la page 1](cigale_html5Outline.png "capture du HTML5 Outline fourni par headingsMap pour la page cigale2.html")
+![Capture du plan du document selon l'algorithme HTML4 pour la page 1](cigale_html5Outline.png "capture du HTML5 Outline fourni par headingsMap pour la page cigale.html")
 
 Les pages doivent bien entendu être valides.
 
