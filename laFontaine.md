@@ -11,7 +11,7 @@ Une fois votre travail terminé, vous pouvez lier la feuille de style fournie (s
 - a
 - blockquote
 - br
-- cite
+- cite (avec classe "author" ou "work" pour désigner respectivement l'auteur ou l'ouvrage)
 - footer
 - h1
 - h2
