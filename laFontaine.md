@@ -25,6 +25,21 @@ Une fois votre travail terminé, vous pouvez lier la feuille de style fournie (s
 
 Consulter le livre de référence pour toutes informations utiles
 
+##Conseils en matière de typographie
+
+Veillez à bien respecter les règles de la typographie française (voir transparent projeté au cours théorique `entitesHTML_typo.pdf`) dans le centre de ressources de Myriam Dupont sur l’École virtuelle).
+
+###=> Rappel : 7 choses à vérifier dans tout travail pour respecter les règles de la typographie française&nbsp;:
+
+ - Majuscules accentuées (`&Agrave;`, `&Acirc;` `&Eacute;`, `&Egrave;`, `&Ecirc;`, `&Ccedil;`), etc.
+ - Espaces insécables avant les ponctuations hautes (`&nbsp;`)
+ - Ligatures (`&oelig;`, `&aelig;`, etc.)
+ - Guillemets typographiques du français (chevrons ouvrants et fermants `&laquo;` et `&raquo;`)
+ - Apostrophe française (`&rsquo;`)
+ - Points de suspension (`&hellip;`)
+ - Tirets spéciaux pour les incises, les énumérations, … (`&ndash;`, `&madash;`, etc.)   
+
+
 ##Résultats attendus
 
 Voici la capture d’écran d’un exemple de réalisation :
