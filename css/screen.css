@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css?family=Bentham');
+/*@import url('https://fonts.googleapis.com/css?family=Parisienne');
+*/
+body{
+	font:16px/1.5  Bentham, Baskerville, "Baskerville Old Face", "Times New Roman", Times, serif;
+	color: #333;
+}
+body, header, main, footer, nav{
+	margin: 0;
+	padding: 0;
+}
+header, footer, header a{
+	/*background-color: #22D18D;*/
+	color: white;
+}
+header{
+	/*background: url("ricepaper.png") rgba(114,138,126,0.22);*/
+	/* rgba(57, 196, 142, 0.22) #19BC9D */
+}
+h1, nav, footer{
+	background-color: rgb(146,166,53);  /* rgba(123,142,34,.9), rgba(25,188,157,0.7), rgba(57,196,142,0.5)*/
+}
+main, nav ul, footer p{
+	width:90%;
+	max-width:39rem;
+}
+main{
+	margin: 3em auto 2em;
+}
+nav ul, footer p{
+	margin: 0 auto;
+}
+blockquote{
+	margin-left:10em;
+}
+q{
+	quotes:"«\00A0" "\00A0»";
+}
+p{
+	margin: 1em 0;
+}
+nav ul{
+	display: flex;
+	list-style-type: none;
+	margin: 0 auto;
+	padding: 0;
+}
+nav li{
+	flex: 1;
+	font-size: 1.414em;
+	padding: 0.25em 0;
+}
+nav li:first-child{
+	text-align: left;
+}
+nav li:last-child{
+	text-align: right;
+}
+nav a{
+	text-decoration: none;
+}
+nav li.active{
+	flex:1.5;
+	text-align: center;
+	background-color: white;
+	border-radius: 50% 50% 0 0 ;
+}
+nav li.active a{
+	color: rgb(100,118,19); /* rgb(146,166,53) */
+}
+nav a:hover{
+	border-bottom: 2px solid white;
+}
+nav li.active a:hover{
+	border-color: rgb(146,166,53);
+}
+h1, h2, p.source{
+	font-weight: normal;
+	text-align: center;	
+}
+h1{
+	font-size: 2.83em; /* 4em */
+	/*font-family: Parisienne;*/
+	/*font-variant: small-caps;*/
+	text-transform: uppercase;
+	letter-spacing: 0.01em;
+	word-spacing: 0.1em;
+	margin: 0;
+}
+h2{
+	font-size: 2.83em;
+	margin: 0 0 0.2em;	
+}
+p.source{
+	font-size: 1em;
+	font-style: italic;	
+	color: #666;
+	margin: 0 0 2em;
+}
+p.source:before {
+	content: '— ';
+}
+p.source:after {
+	content: ' —';
+}
+.author{
+	font-style:normal; font-variant:small-caps;
+}
+figure{
+	text-align: center;
+	margin: 3em 0;
+}
+blockquote footer{
+	margin-top:1em;
+}
+blockquote p:first-child:first-letter {
+		float: left;
+		font-size: 38px;
+		line-height: 1;
+		margin: 2px 5px 0 0;
+}
+blockquote p:first-line {
+	font-variant: small-caps;
+	letter-spacing: 1px;
+}
+blockquote p:last-of-type {
+	margin-bottom: 1.5em;
+}
+nav h2{
+	display:none;
+}
+footer{
+	padding: 1.5em 0 1em;
+}
+footer p{
+	font-size: 0.8em;
+	text-align: right;
+	font-style: italic;
+}
+footer a{
+	color: white;
+	font-style: normal;	
+}
