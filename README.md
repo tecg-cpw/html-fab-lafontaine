@@ -44,13 +44,14 @@ Pour vous aider, voici les étapes que vous pouvez suivre&nbsp;:
 	    * renseigner que vous êtes l’auteur du document&nbsp;;
 	    * prévoir que, si on recherche votre page sur un moteur de recherche comme Google, les mots-clés suivants soient associés&nbsp;: Fables de La Fontaine, Jean de Lafontaine, fables, cigale et fourmi, cigale, fourmi (à adpater pour l’autre fable)&nbsp;;
 	    * prévoir que, si on recherche votre page sur un moteur de recherche comme Google, le moteur de recherche affiche la description suivante pour votre page dans la page qui présente les résultats de recherche&nbsp;: «&nbsp;La Cigale et la Fourmi est la première fable du livre I de Jean de La Fontaine située dans le premier recueil des Fables de La Fontaine édité en 1668.&nbsp;»&nbsp;;
-	    * prévoir que, si votre page est affichée dans un ancien navigateur IE qui ne reconnaît pas les nouvelles balises HTML5 (comme `nav`, `section, etc.), ces dernières puissent malgré tout être correctement affichées par le navigateur en question&nbsp;;
 	    * faire en sorte que le titre du document qui s’affiche dans l’onglet du navigateur soit «&nbsp;La Cigale et la Fourmi – Fables de La Fontaine&nbsp;»&nbsp;;
 	    * lier la feuille de style à votre page HTML&nbsp;;
-	- au niveau du coprs du document, de découper la page en trois grandes sections :
+	    * ~~prévoir que, si votre page est affichée dans un ancien navigateur IE qui ne reconnaît pas les nouvelles balises HTML5 (comme `nav`, `section, etc.), ces dernières puissent malgré tout être correctement affichées par le navigateur en question&nbsp;;~~
+	    	    
+	- au niveau du corps du document, de découper la page en trois grandes sections :
 	 	 * la bannière (balise `header`)&nbsp;;
 	 	 * le contenu principal (balise `main`)&nbsp;;
-	 	 * le pied ed page (balise `footer`)&nbsp;;
+	 	 * le pied de page (balise `footer`)&nbsp;;
     
 3. baliser le texte en utilisant les balises HTML correctes&nbsp;;
 
