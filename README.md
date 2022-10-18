@@ -16,7 +16,7 @@
 
 ## Fab Lafontaine
 
-Vous trouverez dans ce dossier deux fichiers textes, un nommé **cigale.txt**, et un nommé **corbeau.txt**. Ils contiennent chacun le texte de la Fable de Lafontaine correspondante.  
+Vous trouverez dans le dossier __starter-assets__ deux fichiers textes, un nommé **cigale.txt**, et un nommé **corbeau.txt**. Ils contiennent chacun le texte de la Fable de Lafontaine correspondante.  
 
 Votre mission est
 
@@ -24,18 +24,18 @@ Votre mission est
 2. de valider votre code HTML dans un validateur&nbsp;; 
 3. de lier la feuille de style qui donnera à ces deux pages le rendu suivant&nbsp;:
 	* **La Cigale et la Fourmi** :
-![rendu de la Fable "La Cigale et la Fourmi"](./rendu-cigale.png)
+![rendu de la Fable "La Cigale et la Fourmi"](./starter-assets/rendu-cigale.png)
 
 	* **Le Corbeau et le Renard** :
-![rendu de la Fable "Le Corbeau et le Renard"](./rendu-corbeau.png)
+![rendu de la Fable "Le Corbeau et le Renard"](./starter-assets/rendu-corbeau.png)
 
 ### 1. Création du fichier HTML
 
 Pour vous aider, voici les étapes que vous pouvez suivre&nbsp;:
 
 1. avant tout, et avant de commencer à taper du code dans un fichier, prenez le temps d’analyser le contenu fourni pour identifier les balises à utiliser. Vous pouvez vous aider du rendu ci-dessus pour identifier les grandes sections de la page. Le plan du document est très simple. Pour la première fable, il doit correspondre au résultat suivant&nbsp;:  
-![plan de la page "La Cigale et la Fourmi" selon l'algorithme HTML4](./cigale-headings.png)
-![plan de la page "La Cigale et la Fourmi" selon l'algorithme HTML5](./cigale-html5Outline.png) 
+![plan de la page "La Cigale et la Fourmi" selon l'algorithme HTML4](./starter-assets/cigale-headings.png)
+![plan de la page "La Cigale et la Fourmi" selon l'algorithme HTML5](./starter-assets/cigale-html5Outline.png) 
 
 2. créer le fichier HTML et y placer les balises de départ qui fournissent un template de base complet, ce qui implique notamment :
 	- de bien indiquer que le document est en français&nbsp;;
