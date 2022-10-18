@@ -16,17 +16,17 @@
 
 ## Fab Lafontaine
 
-Vous trouverez dans ce dossier deux fichiers texte, un nommé **cigale.txt**, et un nommé **corbeau.txt**. Ils contiennent chacun le texte de la Fable de Lafontaine correspondante.  
+Vous trouverez dans ce dossier deux fichiers textes, un nommé **cigale.txt**, et un nommé **corbeau.txt**. Ils contiennent chacun le texte de la Fable de Lafontaine correspondante.  
 
 Votre mission est
 
-1. de créer deux fichiers HTML qui permettent d’afficher le contenu de ces deux fichiers dans un navigateur web&nbsp;;
+1. de créer trois fichiers HTML qui permettent d’afficher le contenu de ces deux fichiers dans un navigateur web. Le fichier index permettra simplement de choisir entre les deux autres fichiers&nbsp;;
 2. de valider votre code HTML dans un validateur&nbsp;; 
 3. de lier la feuille de style qui donnera à ces deux pages le rendu suivant&nbsp;:
-	* La Cigale et la Fourmi :
+	* **La Cigale et la Fourmi** :
 ![rendu de la Fable "La Cigale et la Fourmi"](./rendu-cigale.png)
 
-	* Le Corbeau et le Renard :
+	* **Le Corbeau et le Renard** :
 ![rendu de la Fable "Le Corbeau et le Renard"](./rendu-corbeau.png)
 
 ### 1. Création du fichier HTML
@@ -56,12 +56,12 @@ Pour vous aider, voici les étapes que vous pouvez suivre&nbsp;:
 
 4. afficher l’image représentée dans le fichier `cigale-fourmi.jpg` avec, comme texte alternatif au cas où elle ne s’affiche pas, «&nbsp;La cigale et la fourmi en pleine discussion&nbsp;» (pour l’autre fable, il s'agira de l’image représentée dans le fichier `corbeau.png` avec, comme texte alternatif, «&nbsp;Le corbeau, bec ouvert, perdant son fromage&nbsp;»)&nbsp;;
 
-5. faire en sorte que le lien «&nbsp;GitHub&nbsp;» du footer mène vers la page de l’organisation hel-cpw dédiée à l’exercice html-fab-lafontaine sur GitHub à l’adresse https://github.com/hepl-cpw/html-bugdroid.
+5. faire en sorte que le lien «&nbsp;GitHub&nbsp;» du footer mène vers la page de l’organisation tecg-cpw dédiée à l’exercice html-fab-lafontaine sur GitHub à l’adresse https://github.com/tecg-cpw/html-fab-lafontaine.
 
 ### 2. Validation du code HTML
 
 1. lancer un validateur&nbsp;:
-    - soit **Total Validator** (le mieux) s’il est installée sur votre machine&nbsp;;
+    - soit **Total Validator** (le mieux) s’il est installé sur votre machine&nbsp;;
     - soit le [validateur HTML5 du W3C en ligne](https://validator.w3.org/#validate_by_upload) sinon&nbsp;;
 2. interpréter les erreurs éventuelles fournies par le validateur&nbsp;;
 3. corriger&nbsp;;
