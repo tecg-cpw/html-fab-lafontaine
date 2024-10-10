@@ -3,11 +3,24 @@
 body{
 	font:16px/1.5  Bentham, Baskerville, "Baskerville Old Face", "Times New Roman", Times, serif;
 	color: #333;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
 }
 body, header, main, footer, nav{
 	margin: 0;
 	padding: 0;
 }
+#menu{
+	font-size: 2em;
+	text-align: center;
+	list-style: none;
+	margin-top: 2rem;
+	display: flex;
+	flex-direction: column;
+	row-gap: 1rem;
+}
+
 header, footer, header a{
 	/*background-color: #22D18D;*/
 	color: white;
@@ -15,6 +28,9 @@ header, footer, header a{
 header{
 	/*background: url("ricepaper.png") rgba(114,138,126,0.22);*/
 	/* rgba(57, 196, 142, 0.22) #19BC9D */
+}
+footer{
+	margin-top: auto;
 }
 h1, nav, footer{
 	background-color: rgb(146,166,53);  /* rgba(123,142,34,.9), rgba(25,188,157,0.7), rgba(57,196,142,0.5)*/
